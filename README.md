@@ -1,6 +1,6 @@
 # Join Our Team
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 [![README.md](https://img.shields.io/badge/English-up-brightgreen)](README.md)
@@ -27,6 +27,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/basalumutgazi"><img src="https://avatars.githubusercontent.com/u/81925269?v=4?s=100" width="100px;" alt=""/><br /><sub><b>basalumutgazi</b></sub></a><br /><a href="#translation-basalumutgazi" title="Translation">🌍</a></td>
     <td align="center"><a href="https://allcontributors.org"><img src="https://avatars.githubusercontent.com/u/46410174?v=4?s=100" width="100px;" alt=""/><br /><sub><b>All Contributors</b></sub></a><br /><a href="https://github.com/golang-gophers/join-our-team/commits?author=all-contributors" title="Documentation">📖</a> <a href="#projectManagement-all-contributors" title="Project Management">📆</a></td>
     <td align="center"><a href="https://github.com/ClayLanzino"><img src="https://avatars.githubusercontent.com/u/71577509?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Clay Lanzino</b></sub></a><br /><a href="#translation-ClayLanzino" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://github.com/Karinisk"><img src="https://avatars.githubusercontent.com/u/43111214?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Karinisk</b></sub></a><br /><a href="#translation-Karinisk" title="Translation">🌍</a></td>
   </tr>
 </table>
 

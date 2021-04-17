@@ -5,6 +5,7 @@
 [![README_RU.md](https://img.shields.io/badge/Russian-up-brightgreen)](README_RU.md)
 [![README_ES.md](https://img.shields.io/badge/Spanish-up-brightgreen)](README_ES.md)
 [![README_TR.md](https://img.shields.io/badge/Turkish-up-brightgreen)](README_TR.md)
+[![README_UA.md](https://img.shields.io/badge/Ukrainian-up-brightgreen)](README_UA.md)
 
 ## Regla N° 1: Debes tener un avatar Google Golang Gopher en GitHub 🤓 😎 🚀
 

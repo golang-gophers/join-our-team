@@ -1,4 +1,4 @@
-# Takımımıza Katılın
+# Приєднайтесь до нашої команди
 
 [![README.md](https://img.shields.io/badge/English-up-brightgreen)](README.md)
 [![README_JO.md](https://img.shields.io/badge/Arabic-up-brightgreen)](README_JO.md)
@@ -7,6 +7,6 @@
 [![README_TR.md](https://img.shields.io/badge/Turkish-up-brightgreen)](README_TR.md)
 [![README_UA.md](https://img.shields.io/badge/Ukrainian-up-brightgreen)](README_UA.md)
 
-## İlk Kural: GitHub avatarınız Go dilinin maskotu olan Gopher olmalı 🤓 😎 🚀
+## Правило #1: Ви повинні мати Google Golang Gopher як свій аватар GitHub 🤓 😎 🚀
 
-### Repository’de yeni bir issue oluşturup kendinizi tanıtın. Sonrasında sizi takımımıza davet edeceğiz 🏞️ 🏥 🏰 🚇
+### Створіть нове завдання у цьому репозиторії, представтесь, і ми запросимо Вас до нашої команди 🏞️ 🏥 🏰 🚇

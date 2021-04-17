@@ -7,6 +7,7 @@
 [![README_RU.md](https://img.shields.io/badge/Russian-up-brightgreen)](README_RU.md)
 [![README_ES.md](https://img.shields.io/badge/Spanish-up-brightgreen)](README_ES.md)
 [![README_TR.md](https://img.shields.io/badge/Turkish-up-brightgreen)](README_TR.md)
+[![README_UA.md](https://img.shields.io/badge/Ukrainian-up-brightgreen)](README_UA.md)
 
 ## قاعدة #1 : يجب ان تمتلك جولانج جوفر كأفاتار لحسابك في غيت هاب 🤓 😎 🚀
 

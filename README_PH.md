@@ -1,6 +1,4 @@
-<div dir="rtl">
-
-# إنظم إلى فريقنا
+# Sumali sa Aming Grupo
 
 [![README.md](https://img.shields.io/badge/English-up-brightgreen)](README.md)
 [![README_JO.md](https://img.shields.io/badge/Arabic-up-brightgreen)](README_JO.md)
@@ -10,8 +8,6 @@
 [![README_TR.md](https://img.shields.io/badge/Turkish-up-brightgreen)](README_TR.md)
 [![README_UA.md](https://img.shields.io/badge/Ukrainian-up-brightgreen)](README_UA.md)
 
-## قاعدة #1 : يجب ان تمتلك جولانج جوفر كأفاتار لحسابك في غيت هاب 🤓 😎 🚀
+## Panuntunan #1: Dapat ay magkaroon ka ng Google Golang Gopher bilang iyong GitHub avatar 🤓 😎 🚀
 
-### افتح إصدار أمر جديد في هذا المخزن و قدم نفسك و سوف ندعوك للأنضمام إلى فريقنا 🏞️ 🏥 🏰 🚇
-
-</div>
+### Magbukas ng bagong isyu dito sa imbakan at ipakilala ang iyong sarili at iimbitahan ka namin sa aming grupo 🏞️ 🏥 🏰 🚇

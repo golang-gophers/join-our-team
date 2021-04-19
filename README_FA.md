@@ -2,10 +2,6 @@
 
 # پیوستن به تیم ما
 
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-7-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
-
 [![README.md](https://img.shields.io/badge/English-up-brightgreen)](README.md)
 [![README_JO.md](https://img.shields.io/badge/Arabic-up-brightgreen)](README_JO.md)
 [![README_FA.md](https://img.shields.io/badge/Farsi-up-brightgreen)](README_FA.md)

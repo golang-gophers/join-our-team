@@ -1,6 +1,6 @@
 # Join Our Team
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-7-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-8-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 [![README.md](https://img.shields.io/badge/English-up-brightgreen)](README.md)
@@ -31,6 +31,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/ClayLanzino"><img src="https://avatars.githubusercontent.com/u/71577509?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Clay Lanzino</b></sub></a><br /><a href="#translation-ClayLanzino" title="Translation">🌍</a></td>
     <td align="center"><a href="https://github.com/Karinisk"><img src="https://avatars.githubusercontent.com/u/43111214?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Karinisk</b></sub></a><br /><a href="#translation-Karinisk" title="Translation">🌍</a></td>
     <td align="center"><a href="https://github.com/Ubersetzerin"><img src="https://avatars.githubusercontent.com/u/82717753?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Ubersetzerin</b></sub></a><br /><a href="#translation-Ubersetzerin" title="Translation">🌍</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/ladyjheng26"><img src="https://avatars.githubusercontent.com/u/82705883?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Ladylyn Quiling</b></sub></a><br /><a href="#translation-ladyjheng26" title="Translation">🌍</a></td>
   </tr>
 </table>
 

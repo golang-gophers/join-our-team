@@ -12,9 +12,7 @@
 [![README_TR.md](https://img.shields.io/badge/Turkish-up-brightgreen)](README_TR.md)
 [![README_UA.md](https://img.shields.io/badge/Ukrainian-up-brightgreen)](README_UA.md)
 
-## Rule #1: You must have a Google Golang Gopher as your GitHub avatar 🤓 😎 🚀
-
-### Open a new issue in this repository and introduce yourself and we will invite you to our team 🏞️ 🏥 🏰 🚇
+## Open a new issue in this repository and introduce yourself and we will invite you to our team 🏞️ 🏥 🏰 🚇
 
 ## Contributors ✨
 

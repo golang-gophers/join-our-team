@@ -9,6 +9,4 @@
 [![README_TR.md](https://img.shields.io/badge/Turkish-up-brightgreen)](README_TR.md)
 [![README_UA.md](https://img.shields.io/badge/Ukrainian-up-brightgreen)](README_UA.md)
 
-## Правило #1: Ви повинні мати Google Golang Gopher як свій аватар GitHub 🤓 😎 🚀
-
-### Створіть нове завдання у цьому репозиторії, представтесь, і ми запросимо Вас до нашої команди 🏞️ 🏥 🏰 🚇
+## Створіть нове завдання у цьому репозиторії, представтесь, і ми запросимо Вас до нашої команди 🏞️ 🏥 🏰 🚇

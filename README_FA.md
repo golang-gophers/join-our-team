@@ -11,8 +11,6 @@
 [![README_TR.md](https://img.shields.io/badge/Turkish-up-brightgreen)](README_TR.md)
 [![README_UA.md](https://img.shields.io/badge/Ukrainian-up-brightgreen)](README_UA.md)
 
-## قانون شماره 1: شما باید Google Golang Gopher را در تصویر پروفایل گیت هاب خود داشته باشید 🤓 😎 🚀
-
-### موضوع جدیدی را در این مخزن ایجاد کنید و خود را معرفی کنید و ما شما را به تیم دعوت می کنیم 🏞️ 🏥 🏰 🚇
+## موضوع جدیدی را در این مخزن ایجاد کنید و خود را معرفی کنید و ما شما را به تیم دعوت می کنیم 🏞️ 🏥 🏰 🚇
 
 </div>

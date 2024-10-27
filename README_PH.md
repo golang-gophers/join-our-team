@@ -9,6 +9,4 @@
 [![README_TR.md](https://img.shields.io/badge/Turkish-up-brightgreen)](README_TR.md)
 [![README_UA.md](https://img.shields.io/badge/Ukrainian-up-brightgreen)](README_UA.md)
 
-## Panuntunan #1: Dapat ay magkaroon ka ng Google Golang Gopher bilang iyong GitHub avatar 🤓 😎 🚀
-
-### Magbukas ng bagong isyu dito sa imbakan at ipakilala ang iyong sarili at iimbitahan ka namin sa aming grupo 🏞️ 🏥 🏰 🚇
+## Magbukas ng bagong isyu dito sa imbakan at ipakilala ang iyong sarili at iimbitahan ka namin sa aming grupo 🏞️ 🏥 🏰 🚇

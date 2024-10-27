@@ -9,6 +9,4 @@
 [![README_TR.md](https://img.shields.io/badge/Turkish-up-brightgreen)](README_TR.md)
 [![README_UA.md](https://img.shields.io/badge/Ukrainian-up-brightgreen)](README_UA.md)
 
-## İlk Kural: GitHub avatarınız Go dilinin maskotu olan Gopher olmalı 🤓 😎 🚀
-
-### Repository’de yeni bir issue oluşturup kendinizi tanıtın. Sonrasında sizi takımımıza davet edeceğiz 🏞️ 🏥 🏰 🚇
+## Repository’de yeni bir issue oluşturup kendinizi tanıtın. Sonrasında sizi takımımıza davet edeceğiz 🏞️ 🏥 🏰 🚇

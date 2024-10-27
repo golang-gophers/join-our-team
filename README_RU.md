@@ -9,6 +9,4 @@
 [![README_TR.md](https://img.shields.io/badge/Turkish-up-brightgreen)](README_TR.md)
 [![README_UA.md](https://img.shields.io/badge/Ukrainian-up-brightgreen)](README_UA.md)
 
-## Правило #1: У тебя на аватаре должен быть изображен Google Golang Гофер 🤓 😎 🚀
-
-### Открой новый вопрос в этом репозитории и представься, и мы пригласим тебя в нашу команду 🏞️ 🏥 🏰 🚇
+## Открой новый вопрос в этом репозитории и представься, и мы пригласим тебя в нашу команду 🏞️ 🏥 🏰 🚇

@@ -11,6 +11,7 @@
 [![README_ES.md](https://img.shields.io/badge/Spanish-up-brightgreen)](README_ES.md)
 [![README_TR.md](https://img.shields.io/badge/Turkish-up-brightgreen)](README_TR.md)
 [![README_UA.md](https://img.shields.io/badge/Ukrainian-up-brightgreen)](README_UA.md)
+[![README_ZH_TW.md](https://img.shields.io/badge/Taiwan-up-brightgreen)](README_ZH_TW.md)
 
 ## Open a new issue in this repository and introduce yourself and we will invite you to our team 🏞️ 🏥 🏰 🚇
 

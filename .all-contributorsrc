@@ -93,6 +93,15 @@
       "contributions": [
         "translation"
       ]
+    },
+    {
+      "login": "appleboy",
+      "name": "Bo-Yi Wu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/21979?v=4",
+      "profile": "https://blog.wu-boy.com",
+      "contributions": [
+        "translation"
+      ]
     }
   ],
   "contributorsPerLine": 7,
@@ -100,5 +109,7 @@
   "projectOwner": "golang-gophers",
   "repoType": "github",
   "repoHost": "https://github.com",
-  "skipCi": true
+  "skipCi": true,
+  "commitType": "docs",
+  "commitConvention": "angular"
 }
